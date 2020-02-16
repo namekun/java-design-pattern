@@ -1,4 +1,4 @@
-package ch5_singletone;
+package ch5_singleton;
 
 public class Main {
     public static void main(String[] args) {

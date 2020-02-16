@@ -1,4 +1,5 @@
 package ch4_FactoryMethod;
 
-public class Product {
+public abstract class Product {
+    public abstract void use();
 }
